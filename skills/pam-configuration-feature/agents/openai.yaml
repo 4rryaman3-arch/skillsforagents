@@ -1,4 +1,4 @@
 interface:
   display_name: "PAM Config Feature"
-  short_description: "Implement PAM config features"
-  default_prompt: "Use $pam-configuration-feature to implement or update a PAM configuration feature across Ember, Django, search metadata, and scheduler wiring."
+  short_description: "Implement PAM config features end-to-end"
+  default_prompt: "Use $pam-configuration-feature to implement or update a PAM configuration feature across Ember UI, Django endpoints, constraints, config defaults, search metadata, and scheduler wiring."
