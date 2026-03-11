@@ -1,0 +1,4 @@
+interface:
+  display_name: "PAM Concise Report Feature"
+  short_description: "Build and modify PAM concise reports fast"
+  default_prompt: "Use $pam-concise-report-feature to add or update a concise (consise) PAM report end-to-end."

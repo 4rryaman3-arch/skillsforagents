@@ -1,0 +1,4 @@
+interface:
+  display_name: "PAM Audit Dual Activity"
+  short_description: "Add user+account audit events"
+  default_prompt: "Use $pam-audit-user-account-activity to implement or update PAM audits so both user activity and account activity are registered, wired, and validated end-to-end."
