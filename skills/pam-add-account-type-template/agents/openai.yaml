@@ -1,0 +1,4 @@
+interface:
+  display_name: "PAM AS400 Remote Creds"
+  short_description: "Implement AS400 remote credential reset/verify + Select2 flow"
+  default_prompt: "Use $pam-as400-remote-credentials to implement or fix AS400 template remote-credential behavior (reset/verify only, AS400-only Select2, no launch/open remote connection)."

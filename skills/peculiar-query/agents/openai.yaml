@@ -1,0 +1,4 @@
+interface:
+  display_name: "Peculiar Query"
+  short_description: "Resolve ambiguous or unusual user queries"
+  default_prompt: "Use $peculiar-query to convert this ambiguous request into an executable plan with explicit assumptions, minimal clarification, validation steps, and final output."
