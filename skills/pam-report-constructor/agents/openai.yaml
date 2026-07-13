@@ -1,0 +1,4 @@
+interface:
+  display_name: "PAM Report Constructor"
+  short_description: "Construct PAM reports from model relations"
+  default_prompt: "Use $pam-report-constructor to build a new PAM report from the provided model relationships and report requirements."
